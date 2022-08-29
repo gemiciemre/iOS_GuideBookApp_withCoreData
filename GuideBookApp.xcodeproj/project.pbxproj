@@ -14,6 +14,7 @@
 		EB632FBC28A6AE55004AAF2A /* GuideBookApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB632FBA28A6AE55004AAF2A /* GuideBookApp.xcdatamodeld */; };
 		EB632FBE28A6AE57004AAF2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB632FBD28A6AE57004AAF2A /* Assets.xcassets */; };
 		EB632FC128A6AE57004AAF2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB632FBF28A6AE57004AAF2A /* LaunchScreen.storyboard */; };
+		EBF17D9C28AA9B73001B552C /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF17D9B28AA9B73001B552C /* detailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EB632FBD28A6AE57004AAF2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB632FC028A6AE57004AAF2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB632FC228A6AE57004AAF2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBF17D9B28AA9B73001B552C /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EB632FB128A6AE55004AAF2A /* AppDelegate.swift */,
 				EB632FB328A6AE55004AAF2A /* SceneDelegate.swift */,
 				EB632FB528A6AE55004AAF2A /* ViewController.swift */,
+				EBF17D9B28AA9B73001B552C /* detailsVC.swift */,
 				EB632FB728A6AE55004AAF2A /* Main.storyboard */,
 				EB632FBD28A6AE57004AAF2A /* Assets.xcassets */,
 				EB632FBF28A6AE57004AAF2A /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				EB632FB628A6AE55004AAF2A /* ViewController.swift in Sources */,
 				EB632FB228A6AE55004AAF2A /* AppDelegate.swift in Sources */,
+				EBF17D9C28AA9B73001B552C /* detailsVC.swift in Sources */,
 				EB632FB428A6AE55004AAF2A /* SceneDelegate.swift in Sources */,
 				EB632FBC28A6AE55004AAF2A /* GuideBookApp.xcdatamodeld in Sources */,
 			);
